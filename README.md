@@ -2,6 +2,7 @@
 Resolución del reto propuesto en el módulo de matemáticas, bootcamp ia
 
 El notebook contiene, a parte de la implementación de las funciones propuestas, la implementación de las siguientes funciones adicionales:
+
 1: Versión para manejar tanto imágenes (numpy.array) en escala de grises como en RGB (image_compresssion_trunc)
   - La detección de formato RGB o escala de grises es automática.
   - Cambian los parámetros suministrados a la función. En vez de seleccionar la cantidad de valores singulares se selecciona un porcentaje (100%-> todos los valores singulares).
